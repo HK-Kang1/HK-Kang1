@@ -16,21 +16,13 @@
 
 ###
 
-<h3 align="left">About Me</h3>
-
-###
-
-<div>
-  <img src="https://github.com/user-attachments/assets/026c9f57-e3f7-4098-9e07-1f74c4e3843b" height="20" />  
-  <img src="https://github.com/user-attachments/assets/d5f094dd-2c92-40cc-b5c2-131ef66ec2b7" height="20" />
-  <img src="https://github.com/user-attachments/assets/4ccb01b9-ec40-4ccc-bb3d-4c44a612e841" height="20" />
-</div>
-
-###
-
-<p align="left">
-  Hi, I'm Heemin. I’m a Canadian citizen but I was born and raised in Thailand for about 14 years, and my ethnicity is Korean. Growing up in such a diverse environment has given me a unique outlook on life and a real appreciation for different cultures. Now living in Canada, I continue to embrace that diversity and enjoy learning from the people I meet along the way.
-</p>
+<h3 align="left">About Me
+  <div>
+    <img src="https://github.com/user-attachments/assets/026c9f57-e3f7-4098-9e07-1f74c4e3843b" height="20" />  
+    <img src="https://github.com/user-attachments/assets/d5f094dd-2c92-40cc-b5c2-131ef66ec2b7" height="20" />
+    <img src="https://github.com/user-attachments/assets/4ccb01b9-ec40-4ccc-bb3d-4c44a612e841" height="20" />
+  </div>
+</h3>
 
 ###
 
