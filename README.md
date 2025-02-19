@@ -1,18 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D5603AQFdgAil-wQ77w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711371044888?e=1745452800&v=beta&t=B8aoc_7oGq4TvzKwkgTkRQv3QeHoi08IZqbbLThmxJQ"/>
-</div>
-
-###
-
-<div align="center">
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
   <a href="https://www.linkedin.com/in/heemin-kang/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /></h1>
+  <a/>
+</h1>
 
 ###
 
