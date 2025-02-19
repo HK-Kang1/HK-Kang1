@@ -14,30 +14,36 @@
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /></h1>
 
+###
 
 <h3 align="left">About Me</h3>
 
-<div style="margin-top: 5px;">
+###
+
+<div>
   <img src="https://github.com/user-attachments/assets/026c9f57-e3f7-4098-9e07-1f74c4e3843b" height="20" />  
   <img src="https://github.com/user-attachments/assets/d5f094dd-2c92-40cc-b5c2-131ef66ec2b7" height="20" />
   <img src="https://github.com/user-attachments/assets/4ccb01b9-ec40-4ccc-bb3d-4c44a612e841" height="20" />
 </div>
 
-<br>
+###
+
 <p align="left">
   Hi, I'm Heemin. I’m a Canadian citizen but I was born and raised in Thailand for about 14 years, and my ethnicity is Korean. Growing up in such a diverse environment has given me a unique outlook on life and a real appreciation for different cultures. Now living in Canada, I continue to embrace that diversity and enjoy learning from the people I meet along the way.
 </p>
 
+###
+
 <p align="left">
+ 🎓 I'm currently pursuing a master's in Software Engineering at the University of Calgary<br><br>
   📚 I enjoy learning new things and continuously improving myself by taking on new challenges and experiences.<br><br>
-  I'm currently a master's student at the University of Calgary, passionate about software development and building innovative projects.<br><br>
-  - 💡 I love the sense of accomplishment that comes with solving difficult problems and overcoming challenges.<br>
-  - ⚡ In my free time, I enjoy going to the gym, playing badminton, and the guitar.
+  💡 I love the sense of accomplishment that comes with solving difficult problems and overcoming challenges.<br><br>
+  ⚡ In my free time, I enjoy going to the gym, playing badminton, and the guitar.
 </p>
 
 ###
 
-<h3 align="left">Languages</h3>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -59,7 +65,7 @@
 
 ###
 
-<h3 align="left">Frameworks and Libraries</h3>
+<h2 align="left">Frameworks and Libraries</h2>
 
 ###
 
