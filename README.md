@@ -19,8 +19,7 @@
 <p align="left">
  🎓 I'm currently pursuing a master's in Software Engineering at the University of Calgary<br><br>
   📚 I enjoy learning new things and continuously improving myself by taking on new challenges and experiences.<br><br>
-  💡 I love the sense of accomplishment that comes with solving difficult problems and overcoming challenges.<br><br>
-  ⚡ In my free time, I enjoy going to the gym, playing badminton, and the guitar.
+  💡 I love the sense of accomplishment that comes with solving difficult problems and overcoming challenges.
 </p>
 
 ###
